@@ -1,3 +1,3 @@
-module github.com/nomospace/baby-naming
+module baby-naming
 
 go 1.19
