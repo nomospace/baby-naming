@@ -4,7 +4,6 @@ import (
 	"math/rand"
 	"time"
 )
-
 var boys = []string{"Mike", "Tim", "Jianguo"}
 var girls = []string{"Cracie", "Monica",  "Elisabeth", "Jenifer"}
 
